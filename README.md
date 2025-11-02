@@ -81,13 +81,8 @@ The following variables were defined to capture request data:
 
 ---
 
-## 🔐 Instance Access & Security
+🔗 Access Key Information Here
 
-For platform compliance and security reasons, the **ServiceNow instance link is not publicly available** in this repository.
+ServiceNow: [Development Link](https://dev286266.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D148ff519c33432101737341d0501311e)
+Demo Video: [Laptop Request Catalog Item – Demonstration Recording](https://drive.google.com/file/d/1_J0J74HnCpb_3lXC1DsrcjUY5h-NM79o/view?usp=drivesdk)
 
-This practice adheres to the ServiceNow Developer Program Terms of Use, which state:
-> “Developer instances are intended for personal use and learning. Sharing access or exposing instance links publicly may result in suspension or termination of access.”
-
-To ensure responsible usage and protection of the intellectual property, instance access remains private.
-
-For the working demonstration, please refer to the **SmartInternz project workspace** and locate the **DEMO LINK** section. The verified ServiceNow instance link is provided there for evaluator access.

@@ -18,4 +18,4 @@ This visual demonstration serves as critical support for project evaluation and 
 
 ## 🔗 Demo Video Link
 
-View the solution in action here: [Laptop Request Catalog Item – Demonstration Recording (https://drive.google.com/file/d/1_J0J74HnCpb_3lXC1DsrcjUY5h-NM79o/view?usp=drivesdk)
+View the solution in action here: [Laptop Request Catalog Item – Demonstration Recording](https://drive.google.com/file/d/1_J0J74HnCpb_3lXC1DsrcjUY5h-NM79o/view?usp=drivesdk)
